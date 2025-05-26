@@ -69,15 +69,6 @@ We answer **4 key business questions**:
 - **Power BI Desktop** for dashboard development
 - Data visualization techniques: bar charts, line graphs, KPIs
 - Metrics-based storytelling for easy non-technical understanding
-
----
-
-## 📝 Reflection
-
-This dashboard project helped me explore how data can drive decisions in the insurance sector. From policy types to customer profiles, every insight is built for clarity and simplicity. The goal was to create something useful not just for analysts, but for any team member—whether they're in sales, marketing, or operations.
-
-The visual dashboard is accompanied by this README and can be extended for use in presentations or reporting.
-
 ---
 
 ##
